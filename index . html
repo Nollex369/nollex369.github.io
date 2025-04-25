@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dean AIM Global</title>
+</head>
+<body style="font-family:sans-serif; text-align:center; padding:50px;">
+  <h1>Welcome to Dean AIM Global</h1>
+  <p>This is your official hub for links, health & wealth opportunities, and community.</p>
+
+  <h3>Follow & Connect:</h3>
+  <ul style="list-style:none; padding:0;">
+    <li><a href="https://www.tiktok.com/@nollex1" target="_blank">TikTok</a></li>
+    <li><a href="https://discord.gg/yourlink" target="_blank">Discord Community</a></li>
+    <li><a href="https://www.youtube.com/@yourchannel" target="_blank">YouTube</a></li>
+  </ul>
+
+  <p>More updates coming soon. Stay tuned!</p>
+</body>
+</html>
