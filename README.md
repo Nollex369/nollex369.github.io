@@ -1,59 +1,50 @@
-DEAN NOBLE NOLLEX
-personal portfolio and hub for DEAN-AIM GLOBAL links and projects.
-# nollex369.github.io
 
-Welcome to my personal website and digital hub for **DEAN-AIM GLOBAL**.  
-This site serves as a gateway to my content, products, and community projects.
+# Dean AIM Global – Web Designer & Developer Portfolio
 
-### What you'll find here:
-- Links to my YouTube, TikTok,and Discord communities
-- Health & wealth opportunities through AIM Global
-- AI-driven content projects and templates
-- Ongoing updates and collaborations
-
-> “Wealth and health are your rights — create them young.”
+Hi, I'm **Dean**, founder of **Dean AIM Global** — a brand focused on health, wealth, and digital empowerment. I’m a self-taught web designer and developer with a passion for building clean, functional, real-world websites. This portfolio showcases my active projects, and I'm now offering my skills to businesses and startups.
 
 ---
 
+## Dean AIM Global Projects
 
-<
+### 1. [Dean Health & Earn Website](https://deanhealthandearn.carrd.co)  
+A live e-commerce-style website for Dean AIM Global, used to promote and sell health-related products. Integrated with WhatsApp for direct orders and mobile-first design for easy navigation.
 
-  <section id="about">
-    <h2>About Me</h2>
-    <p>I'm Dean, the creator of <strong>DEAN-AIM GLOBAL NETWORK</strong> and <strong>Young Wealth &amp; Health People</strong>. I help people grow online income, promote health, and plug into the digital future using Web3, community, and content.</p>
-  </section>
+### 2. [Dean AIM Global Portfolio Site (GitHub)](https://nollex369.github.io/DEANAIMGloball.github.io/)  
+My GitHub-hosted website showcasing Dean AIM Global’s vision, links, and project initiatives. A growing hub for my digital presence and community.
 
-  <section id="projects">
-    <h2>Projects</h2>
-    <ul>
-      <li><strong>DEAN-AIM GLOBAL</strong> – Empowering youth health & wealth via Web3 communities.</li>
-      <li><strong>Young Wealth & Health People</strong> – YouTube & TikTok content for empowerment.</li>
-      <li><strong>AIM Global Products</strong> – MyChoco, Liven Coffee, C24/7 promotions.</li>
-      <li><strong>Discord Community</strong> – Network, learn, earn, and grow.</li>
-    </ul>
-  </section>
+---
 
-  <section id="skills">
-    <h2>Skills</h2>
-    <ul>
-      <li>Web3 Product Management</li>
-      <li>Content Creation & AI Video Editing</li>
-      <li>Community Building (Discord, TikTok)</li>
-      <li>Digital Marketing & Affiliate Strategy</li
-       <li>Content Written                                            
-    </ul> 
-  </
-  </section>
+## Other Projects
 
+### 3. [Nevada Trust Finance App](https://nevada-trust-finance-hub.lovable.app/)  
+A separate mobile banking-style app I designed and developed using Flutter. It features login authentication (PIN, COT, IMF, TAX), wallet balance, and transaction flows. Built to simulate a realistic banking experience.
+
+---
+
+## My Mission
+
+Starting now, I’m applying to companies to offer my services — **for free** — to prove what I can do and build experience. I’m using this portfolio to show real, completed projects that already serve users.
+
+**Interested in working with me?**  
+Let’s connect:  
+[Chat with Dean on WhatsApp](https://wa.me/message/4YSYPJM4XUJYM1)
+
+---
+
+Thanks for stopping by!
+
+  
+  
   <section id="contact">
     <h2>Contact</h2>
     <ul>
       <li><a href="https://wa.me/message/4YSYPJM4XUJYM1" target="_blank">WhatsApp</a></li>
       <li><a href="https://www.tiktok.com/@nollex1" target="_blank">TikTok</a></li>
-      <li><a href="https://www.youtube.com/@YoungWealthHealthPeople" target="_blank">YouTube</a></li>
+      <li><a href="https://www.youtu @YoungWealthHealthPeople" target="_blank">YouTube</a></li>
       <li><a href="mailto:chukwuv508@gmail.com">Email</a></li>
       <li><a href="https://discord.gg/Tvw9XDDV" target="_blank">Discord</a></li>
-    </ul>
+    </ul><a  href="https://nollex369.github.io/DEANAIMGloball.github.io/be.com/
   </section>
 
   <footer>
